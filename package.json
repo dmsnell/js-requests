@@ -1,0 +1,15 @@
+{
+  "name": "js-request",
+  "version": "1.0.0",
+  "description": "Runs asynchronous tasks in a Javascript/Redux environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tasks",
+    "async"
+  ],
+  "author": "Dennis Snell <dennis.snell@automattic.com>",
+  "license": "ISC"
+}
